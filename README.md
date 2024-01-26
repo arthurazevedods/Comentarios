@@ -1,4 +1,4 @@
-# Sistema de Comentários HTML/CSS/JavaScript
+# Sistema de Comentários
 
 Este é um sistema de comentários simples desenvolvido com HTML, CSS (Bootstrap) e JavaScript. Os comentários são salvos em um arquivo JSON no servidor.
 
